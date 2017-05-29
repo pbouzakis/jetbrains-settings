@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="js">
+      <display-name>New Js Injection</display-name>
+      <value-pattern>InlineScript(`</value-pattern>
+      <place><![CDATA[function]]></place>
+    </injection>
+  </component>
+</application>
