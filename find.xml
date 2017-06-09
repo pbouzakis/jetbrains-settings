@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -17,18 +18,12 @@
       <mask>*.jsx</mask>
       <mask>*.j</mask>
       <mask>*.jade</mask>
-      <mask>*.sa</mask>
       <mask>*.sss</mask>
       <mask>*.scssss</mask>
       <mask>*.scsss</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spec</mask>
       <mask>*.spec.</mask>
@@ -38,6 +33,12 @@
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
