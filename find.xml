@@ -7,15 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.svg</mask>
-      <mask>*.jsx</mask>
-      <mask>*.j</mask>
       <mask>*.jade</mask>
       <mask>*.sss</mask>
       <mask>*.scssss</mask>
@@ -24,20 +17,28 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.sp</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
       <mask>*.spec.tsx</mask>
-      <mask>*.spec.ts</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>*sp.tsx</mask>
+      <mask>*spec.tsx</mask>
+      <mask>*spec.</mask>
+      <mask>*spec</mask>
+      <mask>*spe</mask>
+      <mask>*sp</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.spec</mask>
+      <mask>*.spec.</mask>
+      <mask>*.spec.t</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
