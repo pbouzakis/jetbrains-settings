@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.jade</mask>
       <mask>*.sss</mask>
@@ -21,9 +22,6 @@
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.tsx</mask>
       <mask>*sp.tsx</mask>
       <mask>*spec.tsx</mask>
       <mask>*spec.</mask>
@@ -38,6 +36,9 @@
       <mask>*.spec.</mask>
       <mask>*.spec.t</mask>
       <mask>*.spec.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
