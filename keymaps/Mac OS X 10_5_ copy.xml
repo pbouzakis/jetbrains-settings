@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
