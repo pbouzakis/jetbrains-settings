@@ -4,7 +4,7 @@
       <mapping ext="py" type="Native" />
       <mapping pattern="Node" type="PLAIN_TEXT" />
       <mapping ext="2191121783" type="PLAIN_TEXT" />
-      <mapping pattern=".py" type="Python" />
+      <mapping pattern="*.py?" type="Python" />
       <removed_mapping ext="py" type="Python" />
       <removed_mapping ext="pyw" type="Python" />
       <mapping pattern="pyw" type="textmate" />
@@ -19,7 +19,6 @@
       <mapping pattern="py3" type="textmate" />
       <mapping pattern="gypi" type="textmate" />
       <mapping pattern="gyp" type="textmate" />
-      <mapping ext="sconscript" type="textmate" />
       <mapping ext="pyw" type="textmate" />
       <mapping ext="sconstruct" type="textmate" />
       <mapping ext="cpy" type="textmate" />
